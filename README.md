@@ -24,7 +24,8 @@
 
 * 🎓 I'm currently a 7th-semester Computer Science and Engineering undergraduate at Mangalore Institute of Technology and Engineering.
 * 💻 I enjoy building sleek web applications, mobile apps, and exploring automation.
-* 🏏 When I'm not coding, you'll probably find me on the field as the Vice-Captain of the MITE hardball cricket team, managing the Elite Blasters, or designing digital content.
+* 🏏 When I'm away from the keyboard, you'll find me on the cricket field as a spinning all-rounder for the MITE Hardball Cricket Team. I also enjoy playing tennis cricket with River Raptors and Elite Blasters, while exploring my passion for digital content creation.
+*⚡ I believe in balancing technology, sports, and creativity — bringing the same discipline, teamwork, and problem-solving mindset from the field into my coding journey.
 * 📫 How to reach me: **[karthik.m.puthran7@gmail.com](mailto:karthik.m.puthran7@gmail.com)**
 
 ---
