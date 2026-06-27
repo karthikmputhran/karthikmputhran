@@ -66,29 +66,22 @@
 
 <br>
 
-<div align="center"> 
+<div align="center">
 <h2>✨ Thank You For Visiting My Profile! ✨</h2>
 
-
-  
 <p>
-  
 <i>
 Thanks for exploring my projects and journey.
 <br>
-
 Always learning, always building, and always looking forward to creating something meaningful.
-
 </i>
 </p>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=karthikmputhran&style=flat-square&color=blue&label=Profile+Visitors">
+<img src="https://komarev.com/ghpvc/?username=karthikmputhran&style=flat-square&color=blue&label=Profile+Visitors" alt="Profile Visitors">
 
 <br><br>
 
-
 <b>🚀 Let's connect, collaborate, and build amazing things together!</b>
-
 
 </div>
