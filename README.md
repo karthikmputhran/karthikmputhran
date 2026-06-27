@@ -8,12 +8,12 @@
   </a>
   <br><br>
 
+  <a href="mailto:karthik.m.puthran7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://facebook.com/karthik.m.puthran"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/karthik_m_puthran7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/karthik-m-puthran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/917483110923"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://x.com/Puthra1Puthran7"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
-  <a href="mailto:karthik.m.puthran7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <br><br>
 
   <i>"The process is more important than the results. And if you take care of the process, you will get the results."</i> <br>— <b>MS Dhoni</b>
@@ -27,7 +27,6 @@
 * 💻 I enjoy building sleek web applications, mobile apps, and exploring automation.
 * 🏏 When I'm away from the keyboard, you'll find me on the cricket field as a spinning all-rounder for the MITE Hardball Cricket Team. I also enjoy playing tennis cricket with River Raptors and Elite Blasters, while exploring my passion for digital content creation.
 * ⚡ I believe in balancing technology, sports, and creativity - bringing the same discipline, teamwork, and problem-solving mindset from the field into my coding journey.
-* 📫 How to reach me: **[karthik.m.puthran7@gmail.com](mailto:karthik.m.puthran7@gmail.com)**
 
 ---
 
