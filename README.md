@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad;Flutter+%26+Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
-* 🎓 I'm currently a 6th-semester Computer Science and Engineering undergraduate at Mangalore Institute of Technology and Engineering.
+* 🎓 I'm currently a 7th-semester Computer Science and Engineering undergraduate at Mangalore Institute of Technology and Engineering.
 * 💻 I enjoy building sleek web applications, mobile apps, and exploring automation.
 * 🏏 When I'm not coding, you'll probably find me on the cricket field or designing digital content.
 * 📫 How to reach me: **[karthikmputhran7@gmail.com](mailto:karthikmputhran7@gmail.com)**
