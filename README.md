@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=820&lines=E.D.I.T.H.+PERSONNEL+DATABASE+%E2%80%94+ACCESS+GRANTED;KARTHIK+M+PUTHRAN+%7C+SOFTWARE+ENGINEER;BUILDING+THE+FUTURE%2C+ONE+INTELLIGENT+SYSTEM+AT+A+TIME" alt="E.D.I.T.H. boot sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=880&lines=E.D.I.T.H.+ONLINE+%E2%80%94+ACCESS+GRANTED;KARTHIK+M+PUTHRAN+%7C+SOFTWARE+ENGINEER;BUILDING+THE+FUTURE%2C+ONE+INTELLIGENT+SYSTEM+AT+A+TIME" alt="E.D.I.T.H. boot sequence" />
 
   <br />
 
@@ -188,7 +188,7 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
 ## 🕷️ Contribution Web
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SNAKE%20ANIMATION-AWAITING%20ACTIVATION-0B3558?style=for-the-badge&labelColor=0B1220" alt="Snake animation awaiting activation" />
+  <img src="https://raw.githubusercontent.com/karthikmputhran/karthikmputhran/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
 </div>
 
 <details>
@@ -225,11 +225,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then run **Actions → Generate contribution snake → Run workflow** once. On GitHub, enable **Settings → Actions → General → Workflow permissions → Read and write permissions** if the workflow cannot publish the `output` branch. When it has completed successfully, replace the status badge above with this image:
-
-```html
-<img src="https://raw.githubusercontent.com/KarthikMPuthran/KarthikMPuthran/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
-```
+Then run **Actions → Generate contribution snake → Run workflow** once. On GitHub, enable **Settings → Actions → General → Workflow permissions → Read and write permissions** if the workflow cannot publish the `output` branch. The snake image above will appear after the first successful run.
 
 </details>
 
