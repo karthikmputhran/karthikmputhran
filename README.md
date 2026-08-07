@@ -1,159 +1,259 @@
+<!--
+  E.D.I.T.H. PROFILE INTERFACE — Karthik M Puthran
+  Before publishing: replace every occurrence of KarthikMPuthran if your GitHub
+  username is different, plus the two placeholder contact links near the bottom.
+-->
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Spider-Man Tech GIF" />
 
-  <h1>🕷️ SYSTEM DESIGNATION: KARTHIK M PUTHRAN 💻</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=820&lines=E.D.I.T.H.+PERSONNEL+DATABASE+%E2%80%94+ACCESS+GRANTED;KARTHIK+M+PUTHRAN+%7C+SOFTWARE+ENGINEER;BUILDING+THE+FUTURE%2C+ONE+INTELLIGENT+SYSTEM+AT+A+TIME" alt="E.D.I.T.H. boot sequence" />
 
-  <p><b>[ E.D.I.T.H. PROTOCOL ACTIVE ]</b> — <i>"Even Dead, I'm The Hero"</i></p>
+  <br />
 
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=CSE+Undergraduate+%7C+Tech+Architect;Flutter+%26+Web+Systems+Developer;Hardball+Cricket+All-Rounder;J.A.R.V.I.S.+Level+Automation+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B17,45:0B3558,100:00B8D9&height=185&section=header&text=KARTHIK%20M%20PUTHRAN&fontSize=40&fontColor=EAFBFF&animation=fadeIn&fontAlignY=36&desc=E.D.I.T.H.%20ONLINE%20%7C%20Software%20Engineer%20%7C%20CSE%20Undergraduate&descSize=15&descAlignY=57" alt="Karthik M Puthran — E.D.I.T.H. Online" width="100%" />
 
-  <br><br>
+  <a href="https://github.com/KarthikMPuthran"><img src="https://img.shields.io/github/followers/KarthikMPuthran?label=OPERATIVES&style=for-the-badge&color=00B8D9&labelColor=0B1220" alt="GitHub followers" /></a>
+  <a href="https://github.com/KarthikMPuthran?tab=repositories"><img src="https://img.shields.io/badge/STATUS-ONLINE-20E3B2?style=for-the-badge&labelColor=0B1220" alt="Status online" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KarthikMPuthran&label=PROFILE+SCANS&color=00B8D9&style=for-the-badge" alt="Profile views" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,50:0a3a4a,100:00d2ff&height=120&section=header&text=E.D.I.T.H.%20ONLINE&fontSize=32&fontColor=00D2FF&animation=fadeIn&fontAlignY=60" width="100%" alt="EDITH banner" />
-
-  <br>
-
-  <a href="https://karthikmputhran.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO_HUD-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio HUD"></a>
-  <a href="mailto:karthik.m.puthran7@gmail.com"><img src="https://img.shields.io/badge/E_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/karthik-m-puthran"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/karthikmputhran"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://wa.me/917483110923"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://instagram.com/karthik_m_puthran7"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/Puthra1Puthran7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-
-  <br><br>
-
-  <i>"The process is more important than the results. And if you take care of the process, you will get the results."</i>
-  <br>
-  — <b>MS Dhoni</b>
 </div>
 
-<br>
+<br />
 
+> *“You don’t play for the crowd; you play for the team.”* — M. S. Dhoni
+
+<table>
+  <tr>
+    <td width="62%">
+
+### `// INITIALIZING PROFILE`
+
+I’m **Karthik M Puthran**, a Computer Science undergraduate and software engineer from Karnataka, India. I enjoy turning thoughtful ideas into reliable products — especially where **Flutter, web technologies, data, and AI** meet.
+
+My current focus is an AI-powered behavioural-finance platform designed to help close the gap between financial intention and daily action.
+
+    </td>
+    <td width="38%" align="center">
+      <img src="https://media.giphy.com/media/3o7TKsQ8UQvKAsWz0I/giphy.gif" width="220" alt="Spider-Man web animation" />
+    </td>
+  </tr>
+</table>
+
+## ◈ E.D.I.T.H. Personnel Database
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                   E.D.I.T.H. PERSONNEL DATABASE              ║
+╠══════════════════════════════════════════════════════════════╣
+║  NAME       : KARTHIK M PUTHRAN                              ║
+║  STATUS     : ONLINE ●                                       ║
+║  ROLE       : SOFTWARE ENGINEER / CSE UNDERGRADUATE          ║
+║  LOCATION   : KARNATAKA, INDIA                                ║
+║  SPECIALTY  : FLUTTER • AI/ML • WEB • PRODUCT BUILDING       ║
+║  CLEARANCE  : FULL ACCESS                                     ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-┌─────────────────────────────────────────────────────────┐
-│  E.D.I.T.H.  —  Even Dead, I'm The Hero                  │
-│  BOOT SEQUENCE ................................ COMPLETE │
-│  OPERATOR ...................... KARTHIK M PUTHRAN       │
-│  CLEARANCE ...................... FULL ACCESS GRANTED    │
-└─────────────────────────────────────────────────────────┘
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=700&color=00E5FF&center=true&vCenter=true&width=720&lines=Scanning+for+interesting+problems...;Designing+human-centred+digital+experiences...;Training+systems+to+make+better+decisions...;Mission+status%3A+always+building." alt="Current focus" />
+</div>
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=python,dart,js,java,c,cpp,html,css&theme=dark" alt="Python, Dart, JavaScript, Java, C, C++, HTML, CSS" />
+
+**Frameworks & App Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,php,bootstrap&theme=dark" alt="Flutter, React, Node.js, PHP, Bootstrap" />
+
+**Data, AI & Cloud**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,firebase,aws&theme=dark" alt="TensorFlow, PyTorch, MySQL, Firebase, AWS" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman&theme=dark" alt="Git, GitHub, VS Code, Android Studio, Figma, Postman" />
+
+</div>
+
+## 🚀 Featured Deployments
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Behavioural Finance AI</h3>
+      <p><i>AI-assisted financial insight for better everyday decisions.</i></p>
+      <p>Forecasting, market signals, sentiment analysis, and behavioural nudges combined into a practical personal-finance experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LSTM-0B1220?style=flat-square&logo=keras&logoColor=FF6F00" alt="LSTM" />
+        <img src="https://img.shields.io/badge/Prophet-0B1220?style=flat-square&logo=python&logoColor=3776AB" alt="Prophet" />
+        <img src="https://img.shields.io/badge/XGBoost-0B1220?style=flat-square&logo=python&logoColor=3776AB" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/FinBERT-0B1220?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="FinBERT" />
+      </p>
+      <a href="https://github.com/KarthikMPuthran?tab=repositories">⌁ View project repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Todo List</h3>
+      <p><i>A focused, offline-first task companion.</i></p>
+      <p>A clean Flutter application for turning priorities into progress, with lightweight local persistence and a polished mobile flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-0B1220?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0B1220?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
+        <img src="https://img.shields.io/badge/Hive-0B1220?style=flat-square&logo=databricks&logoColor=FF7A00" alt="Hive" />
+      </p>
+      <a href="https://github.com/KarthikMPuthran?tab=repositories">⌁ View project repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 EcoQuest</h3>
+      <p><i>Technology with a sustainability mission.</i></p>
+      <p>A Smart India Hackathon project exploring engaging, action-oriented ways to encourage sustainable choices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Smart_India_Hackathon-0B1220?style=flat-square&logo=india&logoColor=FF9933" alt="Smart India Hackathon" />
+        <img src="https://img.shields.io/badge/Sustainability-0B1220?style=flat-square&logo=leaflet&logoColor=199900" alt="Sustainability" />
+      </p>
+      <a href="https://github.com/KarthikMPuthran?tab=repositories">⌁ View project repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Hostel Management System</h3>
+      <p><i>Making campus administration simpler.</i></p>
+      <p>A full-stack management workflow for accommodation records, allocation, and day-to-day hostel operations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-0B1220?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-0B1220?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Web_App-0B1220?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Web application" />
+      </p>
+      <a href="https://github.com/KarthikMPuthran?tab=repositories">⌁ View project repository</a>
+    </td>
+  </tr>
+</table>
+
+> **Note:** Replace each “View project repository” link with the project’s direct GitHub URL once available. Keeping them pointed at your repositories tab makes this README work immediately.
+
+## 🤖 AI System Status
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│  E.D.I.T.H. // BEHAVIOURAL FINANCE PLATFORM                      │
+├───────────────────────────────────────┬─────────────────────────┤
+│  Invisible Savings Engine              │ ██████████  100%        │
+│  Smart Stock Investing                 │ █████████░   90%        │
+│  Financial Sentiment Analysis          │ ████████░░   80%        │
+│  Front-end Command Centre              │ ██████████  100%        │
+│  Backend Intelligence APIs             │ ███████░░░   70%        │
+└───────────────────────────────────────┴─────────────────────────┘
 ```
 
----
-
-### 🕸️ System Overview & Diagnostics — *About Me*
-
-* 🌐 **Live Portfolio:** central command terminal at [karthikmputhran.github.io/PORTFOLIO](https://karthikmputhran.github.io/PORTFOLIO/)
-* 🎓 **Academic Base:** 7th-semester Computer Science & Engineering, **Mangalore Institute of Technology and Engineering**
-* ⚡ **Core Directives:** sleek mobile UI/UX, cross-platform apps in **Flutter**, high-efficiency web systems, and automated workflows
-* 🏏 **Field Operations:** spin all-rounder for the **MITE Hardball Cricket Team**; active for **River Raptors** & **Elite Blasters** in tennis-cricket tournaments
-* 🕷️ **The Spidey Mindset:** agility, reflexes, split-second decisions and teamwork — from the pitch straight into full-stack development
-
----
-
-### 🛠️ Stark Tech Arsenal & Web-Shooters
-
-**Core Programming Languages**
-<br>
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Frameworks, Cloud & Tactical Systems**
-<br>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-**Diagnostics & Blueprint Tools**
-<br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-### 🚀 High-Priority Projects & Missions
-
-| Codename | Mission Brief | Stack |
-|---|---|---|
-| 📱 **[todo-list](https://github.com/karthikmputhran/todo-list)** | Next-gen task execution app — auth, dynamic theme toggling, local Hive caching, instant PDF export | Flutter · Hive |
-| 🌍 **[ecoquest7](https://github.com/karthikmputhran/ecoquest7)** | Front-end prototype for Smart India Hackathon 2025 — rapid eco-data UI execution | Web |
-| 🏢 **[hostel-management-system](https://github.com/karthikmputhran/hostel-management-system)** | Central administrative database — custom SQL, full-control GUI | PHP · XAMPP · SQL |
-
----
-
-### 🎮 E.D.I.T.H. Combat Simulator — *Web-Slinger Protocol*
-
-> GitHub's README renderer strips scripts, so a live game can't run in the page itself — E.D.I.T.H. needs an actual runtime. The simulator ships as a standalone file: **[`edith-game.html`](./edith-game.html)**.
+## 🎯 Current Mission
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385ce03c17.gif" width="300" alt="Spider-Man swinging" />
+| Objective | Operational status | Mission |
+| :-- | :--: | :-- |
+| **AI Behavioural Finance Platform** | 🟢 **ONLINE** | Bridge the intent–action gap in personal finance |
+| **Product engineering** | 🟡 **IN PROGRESS** | Build intuitive experiences with measurable value |
+| **Continuous learning** | 🔵 **ACTIVE** | Expand depth in AI, Flutter, and cloud systems |
 
-  <br><br>
+</div>
 
-  <a href="https://karthikmputhran.github.io/PORTFOLIO/edith-game.html">
-    <img src="https://img.shields.io/badge/▶_LAUNCH_WEB--SLINGER_SIM-FF3B3B?style=for-the-badge&logo=playstation&logoColor=white" alt="Launch Game">
+## 📊 Intelligence Dashboard
+
+<div align="center">
+  <a href="https://github.com/KarthikMPuthran">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=KarthikMPuthran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=20E3B2&text_color=C9D1D9" alt="Karthik's GitHub stats" />
   </a>
-
-</div>
-
-**Deploy it in under two minutes:**
-1. Drop `edith-game.html` into this repo (or your portfolio repo).
-2. Repo → **Settings → Pages** → deploy from `main` branch, root folder.
-3. Your live link becomes `https://karthikmputhran.github.io/<repo-name>/edith-game.html` — swap that into the badge above.
-
-**How to play:** `◂ A` / `D ▸` (or drag on mobile) to swing Spidey left and right. Catch the green web-fluid canisters, dodge Green Goblin's pumpkin bombs. Miss or get hit three times and the network goes dark.
-
----
-
-### 📊 E.D.I.T.H. Analytics & System Performance
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikmputhran&show_icons=true&theme=tokyonight&hide_border=false" alt="Karthik's Stark Stats" />
-  <img src="https://streak-stats.demolab.com/?user=karthikmputhran&theme=tokyonight&hide_border=false" alt="Karthik's Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmputhran&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-<br>
-
-<div align="center">
-  <h2>🕷️ E.D.I.T.H. SESSION TERMINATED 🕷️</h2>
-
-  <p>
-    <i>
-      "Sir, the network is active and running at 100% efficiency."
-      <br>
-      Explore my full work, UI deployments, and operational history on my official terminal:
-    </i>
-  </p>
-
-  <br>
-  <a href="https://karthikmputhran.github.io/PORTFOLIO/">
-    <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-00D2FF?style=for-the-badge&logo=rocket&logoColor=black" alt="Launch Portfolio">
+  <a href="https://github.com/KarthikMPuthran">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikMPuthran&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=20E3B2&currStreakLabel=00E5FF" alt="GitHub streak" />
   </a>
-  <br><br>
+  <br />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikMPuthran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages" />
+</div>
 
-  <img src="https://komarev.com/ghpvc/?username=karthikmputhran&style=flat-square&color=00d2ff&label=HUD+Scans" alt="Profile Scans">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikMPuthran&bg_color=0D1117&color=C9D1D9&line=00B8D9&point=20E3B2&area=true&hide_border=true" width="95%" alt="GitHub contribution activity" />
+</div>
 
-  <br><br>
+## 🏆 Achievements Unlocked
 
-  <b>🤖 J.A.R.V.I.S. Standby: Let's team up, innovate, and weave something extraordinary!</b>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KarthikMPuthran&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</div>
+
+<table>
+  <tr>
+    <td>🏅 <b>Smart India Hackathon</b><br /><sub>Built toward real-world impact through collaborative innovation.</sub></td>
+    <td>🧠 <b>AI & Data Explorer</b><br /><sub>Applying forecasting and NLP concepts to finance.</sub></td>
+    <td>📲 <b>Flutter Builder</b><br /><sub>Creating approachable, useful mobile experiences.</sub></td>
+  </tr>
+</table>
+
+## 🕷️ Contribution Web
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KarthikMPuthran/KarthikMPuthran/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
+</div>
+
+<details>
+  <summary><b>Activate the contribution snake — same repository, no extra repo required</b></summary>
+  <br />
+
+Create `.github/workflows/snake.yml` in **this profile repository** (the repository named exactly `KarthikMPuthran`) and paste the following workflow. It runs daily and creates the image used above. If your username differs, replace `KarthikMPuthran` both in the image URL and in the repository name.
+
+```yaml
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: KarthikMPuthran
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then run **Actions → Generate contribution snake → Run workflow** once. On GitHub, enable **Settings → Actions → General → Workflow permissions → Read and write permissions** if the workflow cannot publish the `output` branch.
+
+</details>
+
+## 📡 Establish a Connection
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/KarthikMPuthran">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:0B3558,100:090B17&height=120&section=footer&text=WITH%20GREAT%20CODE%20COMES%20GREAT%20RESPONSIBILITY.&fontSize=17&fontColor=EAFBFF&fontAlignY=65" width="100%" alt="With great code comes great responsibility" />
+  <br />
+  <sub>© Karthik M Puthran · E.D.I.T.H. interface online · Built with curiosity and caffeine.</sub>
 </div>
