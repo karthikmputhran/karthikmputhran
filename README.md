@@ -20,7 +20,8 @@
 
 <br />
 
-> *“The process is more important than the results. And if you take care of the process, you will get the results.”* — M. S. Dhoni
+> *“The process is more important than the results. And if you take care of the process, you will get the results.”*
+> — M. S. Dhoni
 
 ## `// INITIALIZING PROFILE`
 
