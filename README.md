@@ -22,22 +22,16 @@
 
 > *“You don’t play for the crowd; you play for the team.”* — M. S. Dhoni
 
-<table>
-  <tr>
-    <td width="62%">
-
-### `// INITIALIZING PROFILE`
+## `// INITIALIZING PROFILE`
 
 I’m **Karthik M Puthran**, a Computer Science undergraduate and software engineer from Karnataka, India. I enjoy turning thoughtful ideas into reliable products — especially where **Flutter, web technologies, data, and AI** meet.
 
 My current focus is an AI-powered behavioural-finance platform designed to help close the gap between financial intention and daily action.
 
-    </td>
-    <td width="38%" align="center">
-      <img src="https://media.giphy.com/media/3o7TKsQ8UQvKAsWz0I/giphy.gif" width="220" alt="Spider-Man web animation" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/SUIT-EDITH%20ONLINE-00B8D9?style=for-the-badge&labelColor=0B1220" alt="E.D.I.T.H. online" />
+  <img src="https://img.shields.io/badge/PROTOCOL-RESPONSIBLE%20CODE-20E3B2?style=for-the-badge&labelColor=0B1220" alt="Responsible code protocol" />
+</div>
 
 ## ◈ E.D.I.T.H. Personnel Database
 
@@ -171,18 +165,17 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikMPuthran&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=20E3B2&currStreakLabel=00E5FF" alt="GitHub streak" />
   </a>
   <br />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikMPuthran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikMPuthran&bg_color=0D1117&color=C9D1D9&line=00B8D9&point=20E3B2&area=true&hide_border=true" width="95%" alt="GitHub contribution activity" />
 </div>
 
-## 🏆 Achievements Unlocked
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarthikMPuthran&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <sub>For the complete live language breakdown and contribution calendar, visit <a href="https://github.com/KarthikMPuthran">my GitHub profile</a>.</sub>
 </div>
+
+## 🏆 Achievements Unlocked
 
 <table>
   <tr>
@@ -195,7 +188,7 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
 ## 🕷️ Contribution Web
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KarthikMPuthran/KarthikMPuthran/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
+  <img src="https://img.shields.io/badge/SNAKE%20ANIMATION-AWAITING%20ACTIVATION-0B3558?style=for-the-badge&labelColor=0B1220" alt="Snake animation awaiting activation" />
 </div>
 
 <details>
@@ -232,7 +225,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then run **Actions → Generate contribution snake → Run workflow** once. On GitHub, enable **Settings → Actions → General → Workflow permissions → Read and write permissions** if the workflow cannot publish the `output` branch.
+Then run **Actions → Generate contribution snake → Run workflow** once. On GitHub, enable **Settings → Actions → General → Workflow permissions → Read and write permissions** if the workflow cannot publish the `output` branch. When it has completed successfully, replace the status badge above with this image:
+
+```html
+<img src="https://raw.githubusercontent.com/KarthikMPuthran/KarthikMPuthran/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
+```
 
 </details>
 
