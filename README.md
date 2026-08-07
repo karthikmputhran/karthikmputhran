@@ -20,7 +20,7 @@
 
 <div align="center">
   <i>“The process is more important than the results.</i><br />
-  <i>And if you take care of the process, you will get the results.”</i>
+  <i>And if you take care of the process, you will get the results.”</I><br />
   <i>— M. S. Dhoni</i>
 </div>                                                                                             
 
