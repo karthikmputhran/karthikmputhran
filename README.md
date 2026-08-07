@@ -1,11 +1,9 @@
 <div align="center">
-  <!-- Spidey / Web Tech Header Animation -->
-  <img src="https://media.giphy.com/media/l41YkxvUlA1WXJ556/giphy.gif" width="400" alt="Spider-Man Tech GIF" />
+  <!-- Working High-Quality Spider-Man Banner -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Spider-Man Tech GIF" />
 
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png" width="35" alt="Spider" /> 
-    SYSTEM DESIGNATION: KARTHIK M PUTHRAN 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" alt="Laptop" />
+    🕷️ SYSTEM DESIGNATION: KARTHIK M PUTHRAN 💻
   </h1>
 
   <p><b>[ E.D.I.T.H. PROTOCOL ACTIVE ]</b> — <i>"Even Dead, I'm The Hero"</i></p>
@@ -54,6 +52,90 @@
 **Frameworks, Cloud & Tactical Systems:**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+**Diagnostics & Blueprint Tools:**<br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 🚀 High-Priority Projects & Missions
+
+* 📱 **[todo-list](https://github.com/karthikmputhran/todo-list):** Next-gen task execution app built with Flutter. Integrates full authentication, dynamic theme toggling, local Hive database caching, and instant PDF data extraction.
+* 🌍 **[ecoquest7](https://github.com/karthikmputhran/ecoquest7):** Front-end prototype designed for Smart India Hackathon 2025. Focused on rapid eco-data UI execution and streamlined user experience.
+* 🏢 **[hostel-management-system](https://github.com/karthikmputhran/hostel-management-system):** Central administrative database system built with PHP, XAMPP architecture, custom SQL queries, and full control GUI.
+
+---
+
+### 🎮 E.D.I.T.H. Simulation Mini-Game: Catch the Web!
+
+<details>
+  <summary><b>🕹️ CLICK HERE TO INITIALIZE SPIDER-MAN MINI-GAME</b></summary>
+  <br>
+  <p align="center"><i>Help Spidey swing through the grid to stop Green Goblin! Click the target below:</i></p>
+
+  <p align="center">
+    <code>[ 🕸️ WEB-SHOOTER HUD ]</code><br><br>
+    🏢 🏢 🏢 🕸️ 🏢 🏢<br>
+    🏢 🎃 🏢 🏢 🏢 🏢<br>
+    🏢 🏢 🏢 🏢 🕷️ 🏢<br>
+  </p>
+
+  <p align="center">
+    <a href="https://karthikmputhran.github.io/PORTFOLIO/">
+      <img src="https://img.shields.io/badge/TARGET_LOCKED-FIRE_WEB-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Fire Web">
+    </a>
+  </p>
+</details>
+
+---
+
+### 📊 E.D.I.T.H. Analytics & System Performance
+
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikmputhran&show_icons=true&theme=tokyonight&hide_border=false" alt="Karthik's Stark Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikmputhran&theme=tokyonight&hide_border=false" alt="Karthik's Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmputhran&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+<br>
+
+<div align="center">
+  <h2>🕷️ E.D.I.T.H. SESSION TERMINATED 🕷️</h2>
+
+  <p>
+    <i>
+      "Sir, the network is active and running at 100% efficiency."
+      <br>
+      Explore my full work, UI deployments, and operational history on my official terminal:
+    </i>
+  </p>
+
+  <br>
+  <a href="https://karthikmputhran.github.io/PORTFOLIO/">
+    <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-00D2FF?style=for-the-badge&logo=rocket&logoColor=black" alt="Launch Portfolio">
+  </a>
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=karthikmputhran&style=flat-square&color=00d2ff&label=HUD+Scans" alt="Profile Scans">
+
+  <br><br>
+
+  <b>🤖 J.A.R.V.I.S. Standby: Let's team up, innovate, and weave something extraordinary!</b>
+</div>
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white) 
