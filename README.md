@@ -191,6 +191,44 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
   <img src="https://raw.githubusercontent.com/karthikmputhran/karthikmputhran/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
 </div>
 
+<details>
+  <summary><b>Activate the contribution snake — same repository, no extra repo required</b></summary>
+  <br />
+
+Create `.github/workflows/snake.yml` in **this profile repository** (the repository named exactly `KarthikMPuthran`) and paste the following workflow. It runs daily and creates the image used above. If your username differs, replace `KarthikMPuthran` both in the image URL and in the repository name.
+
+```yaml
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: KarthikMPuthran
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then run **Actions → Generate contribution snake → Run workflow** once. On GitHub, enable **Settings → Actions → General → Workflow permissions → Read and write permissions** if the workflow cannot publish the `output` branch. The snake image above will appear after the first successful run.
+
+</details>
+
 ## 📡 Establish a Connection
 
 <div align="center">
