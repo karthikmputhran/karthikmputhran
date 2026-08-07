@@ -20,8 +20,7 @@
 
 <br />
 
-> *“The process is more important than the results. And if you take care of the process, you will get the results.”*
-> — M. S. Dhoni
+> *“You don’t play for the crowd; you play for the team.”* — M. S. Dhoni
 
 ## `// INITIALIZING PROFILE`
 
@@ -200,6 +199,9 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
   </a>
   <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://karthikmputhran.github.io/PORTFOLIO/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00B8D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
   </a>
   <a href="https://github.com/KarthikMPuthran">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
