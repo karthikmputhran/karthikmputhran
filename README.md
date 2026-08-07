@@ -18,10 +18,10 @@
 
 </div>
 
-<br />
-
-> *“The process is more important than the results. And if you take care of the process, you will get the results.”*
-<br /> — M. S. Dhoni
+<div align="center">
+  <i>“The process is more important than the results.”</i><br />
+  <i>“And if you take care of the process, you will get the results.”</i>
+</div>                                                                                             — M. S. Dhoni
 
 ## `// INITIALIZING PROFILE`
 
