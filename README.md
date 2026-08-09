@@ -202,7 +202,7 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
   <a href="mailto:karthik.m.puthran7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://karthik-portfolio-nine-black.vercel.app">
+  <a href="https://kmp-portfolio7.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00B8D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
   </a>
   <a href="https://github.com/KarthikMPuthran">
