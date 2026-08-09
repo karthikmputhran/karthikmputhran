@@ -196,10 +196,10 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
 ## 📡 Establish a Connection
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/karthikmputhran">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com">
+  <a href="mailto:karthik.m.puthran7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://karthik-portfolio-nine-black.vercel.app">
