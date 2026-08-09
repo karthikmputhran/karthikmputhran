@@ -44,9 +44,9 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
 ║  NAME       : KARTHIK M PUTHRAN                              ║
 ║  STATUS     : ONLINE ●                                       ║
 ║  ROLE       : SOFTWARE ENGINEER / CSE UNDERGRADUATE          ║
-║  LOCATION   : KARNATAKA, INDIA                                ║
+║  LOCATION   : KARNATAKA, INDIA                               ║
 ║  SPECIALTY  : FLUTTER • AI/ML • WEB • PRODUCT BUILDING       ║
-║  CLEARANCE  : FULL ACCESS                                     ║
+║  CLEARANCE  : FULL ACCESS                                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -135,13 +135,13 @@ My current focus is an AI-powered behavioural-finance platform designed to help 
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
-│  E.D.I.T.H. // BEHAVIOURAL FINANCE PLATFORM                      │
+│  E.D.I.T.H. // BEHAVIOURAL FINANCE PLATFORM                     │
 ├───────────────────────────────────────┬─────────────────────────┤
-│  Invisible Savings Engine              │ ██████████  100%        │
-│  Smart Stock Investing                 │ █████████░   90%        │
-│  Financial Sentiment Analysis          │ ████████░░   80%        │
-│  Front-end Command Centre              │ ██████████  100%        │
-│  Backend Intelligence APIs             │ ███████░░░   70%        │
+│  Invisible Savings Engine             │ ██████████  100%        │
+│  Smart Stock Investing                │ █████████░   90%        │
+│  Financial Sentiment Analysis         │ ████████░░   80%        │
+│  Front-end Command Centre             │ ██████████  100%        │
+│  Backend Intelligence APIs            │ ███████░░░   70%        │
 └───────────────────────────────────────┴─────────────────────────┘
 ```
 
